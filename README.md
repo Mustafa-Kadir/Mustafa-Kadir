@@ -100,7 +100,7 @@ Features
 
 ---
 
-## 🌍 NGO Management System
+##  NGO Management System
 
 Complete management platform for NGOs
 
@@ -115,7 +115,7 @@ Features
 
 ---
 
-## 💰 Payroll Management System
+##  Payroll Management System
 
 Automated payroll processing
 
@@ -127,7 +127,7 @@ Automated payroll processing
 
 ---
 
-## 📈 Attendance Management System
+##  Attendance Management System
 
 Modern attendance tracking solution
 
@@ -155,7 +155,7 @@ Modern attendance tracking solution
 
 ---
 
-# 📈 Contribution Graph
+#  Contribution Graph
 
 [![Mustafa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mustafa-Kadir&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -172,7 +172,7 @@ Modern attendance tracking solution
 
 ---
 
-# 🤝 Open for Collaboration
+#  Open for Collaboration
 
 I'm interested in collaborating on:
 
@@ -197,13 +197,13 @@ I'm interested in collaborating on:
 
 ---
 
-# 📫 Contact Me
+#  Contact Me
 
-📧 Email: your@email.com
+ Email: mustafakadirhas42@gmail.com
 
-🌍 Portfolio: https://yourportfolio.com
+ Portfolio: https://mustefa.cdaethi.org
 
-💼 LinkedIn: https://linkedin.com/in/yourprofile
+ LinkedIn: https://www.linkedin.com/in/mustafa-kadir-a422ab20b/
 
 ---
 
