@@ -139,31 +139,13 @@ Modern attendance tracking solution
 
 ---
 
-# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Mustafa-Kadir&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mustafa-Kadir&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Kadir&layout=compact&theme=tokyonight)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Mustafa-Kadir&theme=onedark&margin-w=10)
-
----
-
-#  Contribution Graph
-
-[![Mustafa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mustafa-Kadir&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 # 🌱 Currently Learning
 
 - Advanced TypeScript
+- Agentic Ai 
 - System Design
 - Microservices
 - Docker
