@@ -14,7 +14,7 @@ Building scalable web applications with over **7+ years of professional experien
 
 ---
 
-# 🚀 About Me
+# About Me
 
 I'm a passionate Full-Stack Software Engineer with more than **7 years of experience** building modern web applications.
 
@@ -22,25 +22,45 @@ I enjoy transforming complex business requirements into scalable, secure, and us
 
 Currently I'm focused on
 
-- ⚛️ React & TypeScript
-- 🚀 Laravel 11+
-- 🗄️ MySQL
-- 🌐 REST APIs
-- 🎨 Tailwind CSS
-- ☁️ Deployment & Production Applications
+-  React & TypeScript
+-  Laravel 11+
+-  MySQL
+- REST APIs
+-  Tailwind CSS
+- Deployment & Production Applications
 
 ---
 
-# 💼 Current Focus
 
--  Building enterprise HR Management Systems
--  Attendance & Payroll Systems
--  NGO Management Platforms
--  React + Laravel SaaS Applications
--  Clean Architecture
--  Performance Optimization
+##  Current Focus
 
----
+-  Re-Architecting and developing a full-featured Enterprise Resource Planning (ERP) system.
+-  Building scalable, secure, and enterprise-grade solutions for organizations.
+-  The ERP currently  I have includes:
+  - Human Resource Management Module (HRM)
+     ->Employee Management System
+     ->Leave Management System
+     ->GPS Based Attendance Managment System
+     ->Vacancy Managment system
+      -> Employee Performance Evaluation
+  - FInance Module
+      ->Payroal Managment System
+      ->Budget Managet system
+      -> Expense Management system
+      ->Income Management system
+      ->Billing & Invoicing Management system
+      ->General Ledgers
+        
+   - Daily Activity Tracking Module
+     ->Daily Activity managment system
+     
+  - Asset Management Module
+  - Procrument Managment Module
+  - File Management Module
+  - Project Management Module
+  - Donor Management Module
+  - User Management Module
+  - Device and access control module
 
 # 🛠 Tech Stack
 
@@ -76,68 +96,33 @@ Currently I'm focused on
 
 # 📌 Featured Projects
 
-## 🏢 OwnAttend HRIS
+## 🏢 OwnAttend ERP 
 
-Enterprise Human Resource Information System
-
-Features
-
-- Employee Management
-- Attendance
-- Payroll
-- Leave Management
-- Asset Management
-- Budget Management
-- Performance Evaluation
-- Daily Activity Tracking
-
-**Stack**
-
-- React
-- Laravel
-- MySQL
-- REST API
-
----
-
-##  NGO Management System
-
-Complete management platform for NGOs
-
-Features
-
-- Sponsorship
-- Finance
-- Reporting
-- Employee Management
-- Projects
-- Inventory
-
----
-
-##  Payroll Management System
-
-Automated payroll processing
-
-- Salary
-- Tax
-- Pension
-- Allowances
-- Reports
-
----
-
-##  Attendance Management System
-
-Modern attendance tracking solution
-
-- QR Attendance
-- Fingerprint Integration
-- Leave Requests
-- Overtime
-- Shift Management
-
----
+I have developed this ERP from very beggining and it contains:- 
+ Human Resource Management Module (HRM)
+     ->Employee Management System
+     ->Leave Management System
+     ->GPS Based Attendance Managment System
+     ->Vacancy Managment system
+      -> Employee Performance Evaluation
+  - FInance Module
+      ->Payroal Managment System
+      ->Budget Managet system
+      -> Expense Management system
+      ->Income Management system
+      ->Billing & Invoicing Management system
+      ->General Ledgers
+        
+   - Daily Activity Tracking Module
+     ->Daily Activity managment system
+     
+  - Asset Management Module
+  - Procrument Managment Module
+  - File Management Module
+  - Project Management Module
+  - Donor Management Module
+  - User Management Module
+  - Device and access control module
 
 
 
