@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mustafa Kadir Hasan
+#  Hi, I'm Mustafa Kadir Hasan
 
 <div align="center">
 
@@ -33,12 +33,12 @@ Currently I'm focused on
 
 # 💼 Current Focus
 
-- 🔥 Building enterprise HR Management Systems
-- 🔥 Attendance & Payroll Systems
-- 🔥 NGO Management Platforms
-- 🔥 React + Laravel SaaS Applications
-- 🔥 Clean Architecture
-- 🔥 Performance Optimization
+-  Building enterprise HR Management Systems
+-  Attendance & Payroll Systems
+-  NGO Management Platforms
+-  React + Laravel SaaS Applications
+-  Clean Architecture
+-  Performance Optimization
 
 ---
 
