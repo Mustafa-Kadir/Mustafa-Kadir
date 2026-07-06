@@ -106,7 +106,7 @@ The project is being built using modern technologies including React, TypeScript
 - GitHub
 - Visual Studio Code
 - Postman
-- Linux
+  
 
 ---
 
