@@ -1,14 +1,14 @@
-#  Hi, I'm Mustafa Kadir Hasan
+# Hi, I'm Mustafa Kadir Hasan
 
 <div align="center">
 
 ### Full-Stack Software Engineer | React • Laravel • TypeScript • JavaScript
 
-Building scalable web applications with over **7+ years of professional experience** designing, developing, and maintaining enterprise-level software.
+Building scalable, secure, and user-friendly web applications with over **7 years of professional experience** in designing, developing, and maintaining enterprise software solutions.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-blue?style=for-the-badge)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://mustefa.cdaethi.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mustafa-kadir-a422ab20b/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:mustafakadirhas42@gmail.com)
 
 </div>
 
@@ -16,164 +16,197 @@ Building scalable web applications with over **7+ years of professional experien
 
 # About Me
 
-I'm a passionate Full-Stack Software Engineer with more than **7 years of experience** building modern web applications.
+I am a Full-Stack Software Engineer with more than **7 years of professional experience** building enterprise web applications. Throughout my career, I have designed and developed solutions for organizations and NGOs, focusing on performance, scalability, maintainability, and user experience.
 
-I enjoy transforming complex business requirements into scalable, secure, and user-friendly software.
+I enjoy turning complex business requirements into reliable software that helps organizations improve their daily operations.
 
-Currently I'm focused on
+My primary technologies include:
 
--  React & TypeScript
--  Laravel 11+
--  MySQL
+- React
+- TypeScript
+- JavaScript
+- Laravel
+- PHP
+- MySQL
 - REST APIs
--  Tailwind CSS
-- Deployment & Production Applications
+- Tailwind CSS
+- Bootstrap
 
 ---
 
+# Current Focus
 
-##  Current Focus
+I am currently re-architecting and expanding a comprehensive Enterprise Resource Planning (ERP) system that I have developed from the ground up.
 
--  Re-Architecting and developing a full-featured Enterprise Resource Planning (ERP) system.
--  Building scalable, secure, and enterprise-grade solutions for organizations.
--  The ERP currently  I have includes:
-  - Human Resource Management Module (HRM)
-     ->Employee Management System
-     ->Leave Management System
-     ->GPS Based Attendance Managment System
-     ->Vacancy Managment system
-      -> Employee Performance Evaluation
-  - FInance Module
-      ->Payroal Managment System
-      ->Budget Managet system
-      -> Expense Management system
-      ->Income Management system
-      ->Billing & Invoicing Management system
-      ->General Ledgers
-        
-   - Daily Activity Tracking Module
-     ->Daily Activity managment system
-     
-  - Asset Management Module
-  - Procrument Managment Module
-  - File Management Module
-  - Project Management Module
-  - Donor Management Module
-  - User Management Module
-  - Device and access control module
+The platform is designed to support organizations of different sizes and provides integrated modules for managing business operations through a single application.
 
-# 🛠 Tech Stack
+Current ERP modules include:
 
-### Frontend
+- Human Resource Management
+  - Employee Management
+  - Leave Management
+  - GPS-Based Attendance Management
+  - Recruitment and Vacancy Management
+  - Employee Performance Evaluation
 
-![React](https://skillicons.dev/icons?i=react)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+- Finance Management
+  - Payroll Management
+  - Budget Management
+  - Expense Management
+  - Income Management
+  - Billing and Invoicing
+  - General Ledger
 
-### Backend
+- Daily Activity Management
+  - Employee Daily Activity Tracking
+  - Task Monitoring
 
-![Laravel](https://skillicons.dev/icons?i=laravel)
-![PHP](https://skillicons.dev/icons?i=php)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
+- Asset Management
 
-### Database
+- Procurement Management
 
-![MySQL](https://skillicons.dev/icons?i=mysql)
+- File and Document Management
 
-### Tools
+- Project Management
 
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![Postman](https://skillicons.dev/icons?i=postman)
-![Linux](https://skillicons.dev/icons?i=linux)
+- Donor Management
+
+- User and Role Management
+
+- Device and Access Control
+
+The project is being built using modern technologies including React, TypeScript, Laravel, MySQL, and RESTful APIs, with a strong focus on clean architecture, security, and scalability.
 
 ---
 
-# 📌 Featured Projects
+# Tech Stack
 
-## 🏢 OwnAttend ERP 
+## Frontend
 
-I have developed this ERP from very beggining and it contains:- 
- Human Resource Management Module (HRM)
-     ->Employee Management System
-     ->Leave Management System
-     ->GPS Based Attendance Managment System
-     ->Vacancy Managment system
-      -> Employee Performance Evaluation
-  - FInance Module
-      ->Payroal Managment System
-      ->Budget Managet system
-      -> Expense Management system
-      ->Income Management system
-      ->Billing & Invoicing Management system
-      ->General Ledgers
-        
-   - Daily Activity Tracking Module
-     ->Daily Activity managment system
-     
-  - Asset Management Module
-  - Procrument Managment Module
-  - File Management Module
-  - Project Management Module
-  - Donor Management Module
-  - User Management Module
-  - Device and access control module
+- React
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
 
+## Backend
 
+- Laravel
+- PHP
+- Python
 
+## Database
 
-# 🌱 Currently Learning
+- MySQL
+
+## Tools
+
+- Git
+- GitHub
+- Visual Studio Code
+- Postman
+- Linux
+
+---
+
+# Featured Project
+
+## OwnAttend ERP
+
+**OwnAttend ERP** is a comprehensive Enterprise Resource Planning system that I designed and developed from the ground up. It is intended to simplify and automate organizational operations through a collection of integrated business modules.
+
+The system currently includes:
+
+- Human Resource Management
+  - Employee Management
+  - Leave Management
+  - GPS-Based Attendance
+  - Recruitment and Vacancy Management
+  - Employee Performance Evaluation
+
+- Finance Management
+  - Payroll
+  - Budget Management
+  - Expense Management
+  - Income Management
+  - Billing and Invoicing
+  - General Ledger
+
+- Daily Activity Management
+
+- Asset Management
+
+- Procurement Management
+
+- File and Document Management
+
+- Project Management
+
+- Donor Management
+
+- User and Role Management
+
+- Device and Access Control
+
+This project reflects my experience in designing enterprise applications with an emphasis on scalability, maintainability, security, and long-term business value.
+
+---
+
+# Currently Learning
+
+I believe continuous learning is essential in software engineering. I am currently improving my knowledge in:
 
 - Advanced TypeScript
-- Agentic Ai 
+- Artificial Intelligence and AI Agents
 - System Design
-- Microservices
+- Microservices Architecture
 - Docker
 - Kubernetes
-- AWS
+- Amazon Web Services (AWS)
 
 ---
 
-#  Open for Collaboration
+# Open for Collaboration
 
-I'm interested in collaborating on:
+I am interested in collaborating on projects involving:
 
+- Enterprise Software Development
+- ERP Systems
 - SaaS Applications
-- React Projects
-- Laravel Projects
-- Open Source
-- Enterprise Applications
+- React Applications
+- Laravel Applications
+- Open Source Projects
+- REST API Development
 
 ---
 
-# 💬 Ask Me About
+# Ask Me About
 
 - React
 - TypeScript
 - Laravel
+- PHP
+- JavaScript
 - REST APIs
 - MySQL
-- Authentication
+- Authentication and Authorization
+- Enterprise Application Development
 - Dashboard Development
+- Software Architecture
 - Full-Stack Development
 
 ---
 
-#  Contact Me
+# Contact
 
- Email: mustafakadirhas42@gmail.com
-
- Portfolio: https://mustefa.cdaethi.org
-
- LinkedIn: https://www.linkedin.com/in/mustafa-kadir-a422ab20b/
+- Email: **mustafakadirhas42@gmail.com**
+- Portfolio: **https://mustefa.cdaethi.org**
+- LinkedIn: **https://www.linkedin.com/in/mustafa-kadir-a422ab20b/**
 
 ---
 
-> *"Great software is built by solving real problems, writing clean code, and continuously learning."*
+> *"Great software is built by solving real problems, writing clean, maintainable code, and continuously learning."*
 
-⭐ Thanks for visiting my profile!
+Thank you for visiting my GitHub profile. Feel free to explore my repositories or connect with me to discuss software development, open-source collaboration, or new opportunities.
