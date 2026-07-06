@@ -94,8 +94,7 @@ The project is being built using modern technologies including React, TypeScript
 ## Backend
 
 - Laravel
-- PHP
-- Python
+
 
 ## Database
 
@@ -161,6 +160,7 @@ I believe continuous learning is essential in software engineering. I am current
 - Advanced TypeScript
 - Artificial Intelligence and AI Agents
 - System Design
+- Agentic AI
 - Microservices Architecture
 - Docker
 - Kubernetes
